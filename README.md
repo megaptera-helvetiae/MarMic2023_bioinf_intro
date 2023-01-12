@@ -1,7 +1,7 @@
 # MarMic Bioinformatics Introduction
 Code sharing among teachers and students of the MarMic (Masters in marine microbiology) class 2027 course: Introduction to Bioinformatics (EEI)
 
-Week1
+Week 1
 
 Instructors:
 Laetitia Wilkins - lwilkins@mpi-bremen.de 
@@ -11,7 +11,7 @@ Isidora Morel - imorel@mpi-bremen.de
 Anna Carlotta Kück - ckueck@mpi-bremen.de 
 Isabella Wilkie - iwilkie@mpi-bremen.de 
 
-This course covers an introduction into high-performance machines and Linux command line; SLURM; molecular data and databases; common files formats used in bioinformatics; sequence comparisons, sequence similarity, alignments, and phylogenetic tree building; visualizing trees; BLAST; profiles and HMMER.
+This course covers an introduction into high-performance machines and Linux command line; SLURM; molecular data and databases; common file formats used in bioinformatics; sequence comparisons, sequence similarity, alignments, and phylogenetic tree building; visualizing trees; BLAST; profiles and HMMER.
 
 Please use the Wiki page to get to the course instructions
 
