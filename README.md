@@ -13,6 +13,6 @@ Isabella Wilkie - iwilkie@mpi-bremen.de
 
 This course covers an introduction into high-performance machines and Linux command line; SLURM; molecular data and databases; common file formats used in bioinformatics; sequence comparisons, sequence similarity, alignments, and phylogenetic tree building; visualizing trees; BLAST; profiles and HMMER.
 
-Please use the Wiki page to get to the course instructions
+Please use the Wiki page to get to the course instructions and exercises.
 
 ![week1](https://user-images.githubusercontent.com/38704725/212079423-730adb57-bee0-4e71-acc3-2bf6ee80df0e.jpg)
